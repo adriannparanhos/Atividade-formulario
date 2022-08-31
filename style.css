@@ -1,0 +1,86 @@
+#titulo {
+    text-transform: uppercase;
+}
+
+.conteudo-esquerda {
+    background-color: aquamarine;
+    height: 200px;
+    width: 200px;
+}
+
+label {
+   display: block;
+   margin-top: 10px;
+   margin-bottom: 20px;
+}
+
+#text-area {
+    resize: none;
+    width: 300px;
+    height: 100px;
+    overflow: hidden;
+    overflow-y: scroll;
+    margin-left: 10px;
+}
+
+button {
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #e8fdff;
+}
+
+.checkbox1 {
+    margin-left: 35px;
+}
+
+.checkbox2 {
+    margin-left: 20px;
+}
+
+.checkbox3 {
+    margin-left: 20px;
+}
+
+.checkbox4 {
+    margin-left: 100px;
+}
+
+.checkbox5 {
+    margin-left:10px ;
+}
+
+input {
+    margin-left: 50px;
+}
+
+.radio1 {
+    margin-left: 60px;
+}
+
+.radio2 {
+    margin-left: 20px;
+}
+
+.radio3 {
+    margin-left: 20px;
+}
+
+.radio4 {
+    margin-left: 55px;
+}
+
+.radio5 {
+    margin-left: 20px;
+}
+
+select {
+    margin-left: 50px;
+}
+
+.data {
+    margin-left: 5px;
+}
+
+

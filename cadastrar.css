@@ -1,0 +1,13 @@
+input {
+    display: block;
+}
+
+img {
+    width: 50px;
+}
+
+button {
+    background-color: white;
+    border: none;
+    cursor: pointer;
+}
